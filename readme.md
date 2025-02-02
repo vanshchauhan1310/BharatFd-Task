@@ -2,7 +2,7 @@
 
 A robust Django-based system for managing and serving Frequently Asked Questions (FAQs) in multiple languages. Built with performance in mind, this system leverages Redis caching and provides a RESTful API interface for seamless integration.
 
-## Key Features 🚀
+## Key Features
 
 - Dynamic translation support for English, Hindi, Bengali, and French
 - High-performance caching with Redis
